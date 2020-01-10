@@ -1,0 +1,14 @@
+C:\Users\aanjana\source\repos\ContactManagement\ContactManagement.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\aanjana\source\repos\ContactManagement\ContactManagement.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\aanjana\source\repos\ContactManagement\ContactManagement.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\aanjana\source\repos\ContactManagement\ContactManagement.Test\bin\Debug\netcoreapp2.1\ContactManagement.Test.deps.json
+C:\Users\aanjana\source\repos\ContactManagement\ContactManagement.Test\bin\Debug\netcoreapp2.1\ContactManagement.Test.runtimeconfig.json
+C:\Users\aanjana\source\repos\ContactManagement\ContactManagement.Test\bin\Debug\netcoreapp2.1\ContactManagement.Test.runtimeconfig.dev.json
+C:\Users\aanjana\source\repos\ContactManagement\ContactManagement.Test\bin\Debug\netcoreapp2.1\ContactManagement.Test.dll
+C:\Users\aanjana\source\repos\ContactManagement\ContactManagement.Test\bin\Debug\netcoreapp2.1\ContactManagement.Test.pdb
+C:\Users\aanjana\source\repos\ContactManagement\ContactManagement.Test\obj\Debug\netcoreapp2.1\ContactManagement.Test.csprojAssemblyReference.cache
+C:\Users\aanjana\source\repos\ContactManagement\ContactManagement.Test\obj\Debug\netcoreapp2.1\ContactManagement.Test.csproj.CoreCompileInputs.cache
+C:\Users\aanjana\source\repos\ContactManagement\ContactManagement.Test\obj\Debug\netcoreapp2.1\ContactManagement.Test.AssemblyInfoInputs.cache
+C:\Users\aanjana\source\repos\ContactManagement\ContactManagement.Test\obj\Debug\netcoreapp2.1\ContactManagement.Test.AssemblyInfo.cs
+C:\Users\aanjana\source\repos\ContactManagement\ContactManagement.Test\obj\Debug\netcoreapp2.1\ContactManagement.Test.dll
+C:\Users\aanjana\source\repos\ContactManagement\ContactManagement.Test\obj\Debug\netcoreapp2.1\ContactManagement.Test.pdb

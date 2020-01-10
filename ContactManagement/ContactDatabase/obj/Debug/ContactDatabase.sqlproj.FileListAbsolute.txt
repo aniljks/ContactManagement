@@ -1,0 +1,6 @@
+C:\Users\aanjana\source\repos\ContactManagement\ContactDatabase\bin\Debug\ContactDatabase.dacpac
+C:\Users\aanjana\source\repos\ContactManagement\ContactDatabase\bin\Debug\ContactDatabase.dll
+C:\Users\aanjana\source\repos\ContactManagement\ContactDatabase\bin\Debug\ContactDatabase.pdb
+C:\Users\aanjana\source\repos\ContactManagement\ContactDatabase\obj\Debug\ContactDatabase.sqlprojAssemblyReference.cache
+C:\Users\aanjana\source\repos\ContactManagement\ContactDatabase\obj\Debug\ContactDatabase.dll
+C:\Users\aanjana\source\repos\ContactManagement\ContactDatabase\obj\Debug\ContactDatabase.pdb

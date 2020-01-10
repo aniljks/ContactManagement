@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aanjana\\source\\repos\\ContactManagement\\ContactManagement.Test\\ContactManagement.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aanjana\\source\\repos\\ContactManagement\\ContactManagement.Test\\ContactManagement.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aanjana\\source\\repos\\ContactManagement\\ContactManagement.Test\\ContactManagement.Test.csproj",
+        "projectName": "ContactManagement.Test",
+        "projectPath": "C:\\Users\\aanjana\\source\\repos\\ContactManagement\\ContactManagement.Test\\ContactManagement.Test.csproj",
+        "packagesPath": "C:\\Users\\aanjana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aanjana\\source\\repos\\ContactManagement\\ContactManagement.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aanjana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\aanjana\\source\\repos\\ContactManagement\\ContactManagement.Web\\ContactManagement.Web.csproj": {
+                "projectPath": "C:\\Users\\aanjana\\source\\repos\\ContactManagement\\ContactManagement.Web\\ContactManagement.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\aanjana\\source\\repos\\ContactManagement\\ContactManagement.Web\\ContactManagement.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aanjana\\source\\repos\\ContactManagement\\ContactManagement.Web\\ContactManagement.Web.csproj",
+        "projectName": "ContactManagement.Web",
+        "projectPath": "C:\\Users\\aanjana\\source\\repos\\ContactManagement\\ContactManagement.Web\\ContactManagement.Web.csproj",
+        "packagesPath": "C:\\Users\\aanjana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aanjana\\source\\repos\\ContactManagement\\ContactManagement.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aanjana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
